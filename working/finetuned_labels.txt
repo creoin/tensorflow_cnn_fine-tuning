@@ -1,0 +1,120 @@
+clumber
+french bulldog
+rottweiler
+beagle
+appenzeller
+lakeland terrier
+saluki
+sealyham terrier
+pomeranian
+chihuahua
+leonberg
+chow
+doberman
+african hunting dog
+keeshond
+chesapeake bay retriever
+miniature poodle
+saint bernard
+standard schnauzer
+siberian husky
+pekinese
+bouvier des flandres
+basset
+brabancon griffon
+norwich terrier
+brittany spaniel
+gordon setter
+eskimo dog
+german shepherd
+newfoundland
+boston bull
+blenheim spaniel
+great pyrenees
+vizsla
+shetland sheepdog
+sussex spaniel
+briard
+dhole
+samoyed
+norwegian elkhound
+mexican hairless
+japanese spaniel
+boxer
+curly coated retriever
+irish water spaniel
+italian greyhound
+old english sheepdog
+malinois
+staffordshire bullterrier
+silky terrier
+bloodhound
+german short haired pointer
+english foxhound
+kerry blue terrier
+dandie dinmont
+miniature schnauzer
+maltese dog
+kuvasz
+groenendael
+standard poodle
+airedale
+irish terrier
+irish setter
+irish wolfhound
+toy poodle
+shih tzu
+giant schnauzer
+cairn
+otterhound
+scottish deerhound
+bedlington terrier
+soft coated wheaten terrier
+tibetan terrier
+norfolk terrier
+komondor
+collie
+whippet
+affenpinscher
+american staffordshire terrier
+pug
+welsh springer spaniel
+black and tan coonhound
+wire haired fox terrier
+bull mastiff
+weimaraner
+redbone
+lhasa
+english springer
+labrador retriever
+west highland white terrier
+entlebucher
+australian terrier
+papillon
+cardigan
+cocker spaniel
+toy terrier
+border collie
+walker hound
+ibizan hound
+flat coated retriever
+rhodesian ridgeback
+great dane
+bluetick
+borzoi
+golden retriever
+bernese mountain dog
+english setter
+greater swiss mountain dog
+dingo
+yorkshire terrier
+kelpie
+basenji
+schipperke
+miniature pinscher
+border terrier
+afghan hound
+scotch terrier
+malamute
+tibetan mastiff
+pembroke

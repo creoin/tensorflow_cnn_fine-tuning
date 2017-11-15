@@ -1,0 +1,15 @@
+**/*.pyc
+tf_files
+.idea/
+**/*~
+gradle*
+libs/
+local.properties
+.gradle/
+
+.DS_Store
+
+data/ImageNetDogs
+working/bottleneck
+working/training_summaries
+pretrained/inception_v3
